@@ -1,0 +1,174 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: "Montserrat"; 
+    font-size:4px;
+}
+#title
+{
+background-color:red;
+color:white;
+
+
+}
+a{
+
+    color:white;
+}
+h1{
+
+    font-family: "Montserrat"; 
+    font-size: 3rem;
+    margin:8px;
+    line-height: 2;
+
+}
+.bighead
+{
+    line-height: 2;
+}
+h2{
+    font-family: "Montserrat"; 
+    font-weight: bold;
+    /* color: white; */
+}
+h3{
+    /* margin-top: 8%; */
+    font-family: "Montserrat";
+    font-weight: bold;
+    
+}
+/* .simple
+{
+    color:white;
+} */
+.navbar{
+
+    margin-bottom: 4rem;
+}
+
+.navbar-brand{
+
+    font-size: 3rem;
+    font-weight: bold;
+}
+.nav-item{
+
+    padding:0px 18px;
+}
+.download
+{
+
+    margin: 8% 5% 6% 2%;
+}
+.dogtinder{
+position: absolute;
+/* bottom:18px; */
+top:-12px;
+right:30%;
+    width:50%;
+    transform: rotate(25deg);
+    z-index: 1;
+}
+
+
+#features {
+    position: relative;
+    z-index: 2;
+    padding: 5% 10%;
+    background-color: white;
+  }
+.ft{
+
+  text-align: center;
+  padding: 5%;
+  margin-top: 8px;
+
+}
+  
+.icon{
+    color:red;
+    
+  }
+  
+
+
+#testimonials {
+    background-color: red;
+    /* padding:5% 20%; */
+
+}
+
+.testimonial-image
+{
+    width:10%;
+    border-radius: 100%;
+}
+.testimonial-text{
+
+    font-family: "Montserrat";
+    font-weight: bolder;
+}
+.test-sec{
+    padding: 4% 24%;
+    text-align : center;
+    color : white;
+
+}
+#press{
+    text-align: center;
+    margin:16px;
+    padding-bottom: 4%;
+    margin-top: 4%;
+}
+.pressimg{
+width: 20%;
+padding: 0 4%;
+}
+
+
+
+#pricing{
+    text-align: center;
+    /* background-color: red; */
+padding: 3%;
+}
+
+.priceinfo
+{
+    text-align: center;
+}
+.card
+{
+
+    color: black;
+    font-family: "Montserrat";
+    /* background-color: red; */
+}
+
+.price{
+padding:3% 8%;
+}
+
+#cta
+{
+    padding: 4%;
+text-align: center;
+background-color: red;
+
+}
+.download2
+{
+    margin: 2%;
+    /* padding: 4px; */
+}
+.ctahead
+{
+    color: white;
+}
+#footer
+{
+    text-align: center;
+}
+
